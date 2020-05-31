@@ -1,6 +1,5 @@
 # 一、导入项目
   将项目导入编译器中
-  ![头像](https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg)
 # 二、加入时间戳
 ## 1、界面
 <br>时间戳是显示在每条Note的下面，所以在noteslist_item.xml添加一个用于显示时间戳的TextView。
