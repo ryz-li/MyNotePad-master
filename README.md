@@ -1,6 +1,6 @@
 # 一、导入项目
   将项目导入编译器中
-！[初始](https://github.com/ryz-li/NotePad-master/blob/master/初始.jpg)！[初始](https://github.com/ryz-li/NotePad-master/blob/master/初始.jpg)
+[初始](https://github.com/ryz-li/NotePad-master/blob/master/初始.jpg)
 # 二、加入时间戳
 ## 1、显示
 <br>时间戳是显示在每条Note的下面，所以在noteslist_item.xml添加一个用于显示时间戳的TextView。
@@ -81,8 +81,8 @@ String formatDate = format.format(date);
 values.put(NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE, formatDate);
 ```
 ## 4、效果截图
-！[加入时间戳](https://github.com/ryz-li/NotePad-master/blob/master/加入时间戳.jpg)
-！[修改保存后的时间戳](https://github.com/ryz-li/NotePad-master/blob/master/修改保存后的时间戳.jpg)
+[加入时间戳](https://github.com/ryz-li/NotePad-master/blob/master/加入时间戳.jpg)
+[修改保存后的时间戳](https://github.com/ryz-li/NotePad-master/blob/master/修改保存后的时间戳.jpg)
 # 三、添加笔记查询功能（根据标题查询）
 ## 1、显示
 <br>在list_options_menu.xml添加显示搜索图标
@@ -227,5 +227,5 @@ public class NoteSearch extends Activity implements SearchView.OnQueryTextListen
         </activity>
 ```
 ## 3、效果截图
-！[加入搜索](https://github.com/ryz-li/NotePad-master/blob/master/加入搜索.jpg)
-！[搜索结果](https://github.com/ryz-li/NotePad-master/blob/master/搜索结果.jpg)
+[加入搜索](https://github.com/ryz-li/NotePad-master/blob/master/加入搜索.jpg)
+[搜索结果](https://github.com/ryz-li/NotePad-master/blob/master/搜索结果.jpg)
